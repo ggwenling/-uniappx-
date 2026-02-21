@@ -1,0 +1,66 @@
+# ========================================
+# GitHub 上传完整步骤
+# ========================================
+
+# 第一步：初始化 Git 仓库
+cd /d d:\uniapp\wechatApp\demo1\travel
+git init
+
+# 第二步：添加所有文件到暂存区（.gitignore 会自动排除不需要的文件）
+git add .
+
+# 第三步：提交到本地仓库
+git commit -m "初始提交：旅游小程序项目"
+
+# 第四步：在 GitHub 上创建仓库
+# 1. 打开浏览器访问：https://github.com/new
+# 2. 填写仓库名称，例如：travel-miniapp
+# 3. 选择 Public（公开）或 Private（私有）
+# 4. 不要勾选 "Initialize this repository with a README"
+# 5. 点击 "Create repository"
+
+# 第五步：关联远程仓库（替换 YOUR_USERNAME 和 YOUR_REPO_NAME）
+git remote add origin https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git
+
+# 第六步：推送到 GitHub
+git branch -M main
+git push -u origin main
+
+# ========================================
+# 后续更新代码的步骤
+# ========================================
+
+# 1. 查看修改的文件
+git status
+
+# 2. 添加修改的文件
+git add .
+
+# 3. 提交修改
+git commit -m "描述你的修改内容"
+
+# 4. 推送到 GitHub
+git push
+
+# ========================================
+# 常用 Git 命令
+# ========================================
+
+# 查看提交历史
+git log
+
+# 查看远程仓库地址
+git remote -v
+
+# 拉取最新代码
+git pull
+
+# 创建新分支
+git checkout -b feature/new-feature
+
+# 切换分支
+git checkout main
+
+# 合并分支
+git merge feature/new-feature
+

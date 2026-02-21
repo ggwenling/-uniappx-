@@ -1,1 +1,54 @@
+# Node.js 依赖包（最大的文件夹，必须忽略）
+node_modules/
+
+# 构建输出目录
 unpackage/
+dist/
+
+# 编译缓存
+.cache/
+*.cache
+
+# 日志文件
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# 编辑器配置
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+.DS_Store
+
+# 临时文件
+*.tmp
+*.temp
+.temp/
+.tmp/
+
+# 系统文件
+Thumbs.db
+.DS_Store
+
+# 环境变量文件
+.env
+.env.local
+.env.*.local
+
+# 微信开发者工具生成的文件
+.wxss.map
+
+# uni-app 编译产物
+unpackage/dist/
+unpackage/cache/
+
+# 锁文件（可选，如果团队协作建议保留 pnpm-lock.yaml）
+# pnpm-lock.yaml
+# package-lock.json
+# yarn.lock
