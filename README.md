@@ -66,7 +66,7 @@ npm run build:h5
 # 编译 App
 npm run build:app
 ```
-##具体UI设计##
+
 <img width="414" height="896" alt="06052cd6-45cc-4282-b74c-f3350a29ba51" src="https://github.com/user-attachments/assets/1df8b7c5-a003-4206-9eda-1ecd184d2f2c" />
 <img width="414" height="896" alt="8a4f84e1-ba78-4377-9c84-17a1086b2dc6" src="https://github.com/user-attachments/assets/51869172-ee5d-4e51-a0a5-45ceddc78405" />
 <img width="414" height="896" alt="7ead9113-1ead-4b8c-9ed7-f33de38c9dbb" src="https://github.com/user-attachments/assets/b6058d7d-811f-48a2-abf9-a51114b21a18" />
