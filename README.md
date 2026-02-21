@@ -24,7 +24,7 @@
 - **框架**：uni-app x (uvue)
 - **UI 组件库**：cool-ui
 - **样式**：SCSS + Tailwind CSS
-- **语言**：TypeScript
+- **语言**：TypeScript + uts
 - **构建工具**：Vite
 
 ## 📦 安装依赖
@@ -113,14 +113,9 @@ const baseUrl = 'https://your-api-domain.com/api'
 const CACHE_TIME = 5 * 60 * 1000 // 5分钟
 ```
 
-## 📄 License
-
-MIT License
 
 ## 👨‍💻 作者
 
-Your Name
+wenling
 
-## 🤝 贡献
 
-欢迎提交 Issue 和 Pull Request！
