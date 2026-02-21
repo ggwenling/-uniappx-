@@ -1,4 +1,4 @@
-<img width="584" height="1215" alt="06052cd6-45cc-4282-b74c-f3350a29ba51" src="https://github.com/user-attachments/assets/1df8b7c5-a003-4206-9eda-1ecd184d2f2c" /><img width="584" height="1215" alt="06052cd6-45cc-4282-b74c-f3350a29ba51" src="https://github.com/user-attachments/assets/ab8ede79-ad9e-4d4b-9d5e-39818ff946b6" /># 🌍 旅游小程序 Travel App
+# 🌍 旅游小程序 Travel App
 
 一个基于 uni-app x 和 uts,cool-unix 开发的精美旅游小程序，支持微信小程序平台。(不支持H5,需要下载微信开发工具)
 
@@ -52,7 +52,8 @@ npm run dev:h5
 # App 开发
 npm run dev:app
 ```
-
+<img width="400" height="600" alt="06052cd6-45cc-4282-b74c-f3350a29ba51" src="https://github.com/user-attachments/assets/1df8b7c5-a003-4206-9eda-1ecd184d2f2c" />
+<img width="400" height="600" alt="06052cd6-45cc-4282-b74c-f3350a29ba51" src="https://github.com/user-attachments/assets/ab8ede79-ad9e-4d4b-9d5e-39818ff946b6" />
 ## 📱 编译发布
 
 ```bash
