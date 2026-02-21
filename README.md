@@ -52,8 +52,8 @@ npm run dev:h5
 # App 开发
 npm run dev:app
 ```
-<img width="400" height="600" alt="06052cd6-45cc-4282-b74c-f3350a29ba51" src="https://github.com/user-attachments/assets/1df8b7c5-a003-4206-9eda-1ecd184d2f2c" />
-<img width="400" height="600" alt="06052cd6-45cc-4282-b74c-f3350a29ba51" src="https://github.com/user-attachments/assets/ab8ede79-ad9e-4d4b-9d5e-39818ff946b6" />
+
+
 ## 📱 编译发布
 
 ```bash
@@ -67,8 +67,11 @@ npm run build:h5
 npm run build:app
 ```
 ##具体UI设计##
-![Uploading 06052cd6-45cc-4282-b74c-f3350a29ba51.png…]()
-
+<img width="414" height="896" alt="06052cd6-45cc-4282-b74c-f3350a29ba51" src="https://github.com/user-attachments/assets/1df8b7c5-a003-4206-9eda-1ecd184d2f2c" />
+<img width="414" height="896" alt="8a4f84e1-ba78-4377-9c84-17a1086b2dc6" src="https://github.com/user-attachments/assets/51869172-ee5d-4e51-a0a5-45ceddc78405" />
+<img width="414" height="896" alt="7ead9113-1ead-4b8c-9ed7-f33de38c9dbb" src="https://github.com/user-attachments/assets/b6058d7d-811f-48a2-abf9-a51114b21a18" />
+<img width="414" height="896" alt="e44e505b-3cfc-4e70-8b01-2879a9f29540" src="https://github.com/user-attachments/assets/d9b19823-9125-4a99-8973-9b9891442e74" />
+<img width="414" height="896" alt="1e297a67-46aa-4f01-8629-cb619ad39c3e" src="https://github.com/user-attachments/assets/7628c598-29ed-4fc8-aaf6-713b4352741d" />
 
 
 ## 📂 项目结构
